@@ -1,0 +1,2 @@
+# DomainTypescript
+entidades de domínio
